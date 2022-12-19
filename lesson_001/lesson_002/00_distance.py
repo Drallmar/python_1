@@ -19,5 +19,3 @@ distances = {}
 print(distances)
 
 
-123
-
